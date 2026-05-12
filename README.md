@@ -18,6 +18,12 @@ This playbook covers the complete setup sequence for a personal or small-team VP
 6. [Docker install](#6-docker-install)
 7. [Coolify install](#7-coolify-install)
 8. [Disk management](#8-disk-management)
+
+**Runbooks (ongoing operations):**
+
+- [Security hardening checklist](runbooks/security-hardening.md)
+- [Storage debloat](runbooks/storage-debloat.md)
+- [VPS audit](runbooks/vps-audit.md)
 9. [Monitoring](#9-monitoring)
 10. [Backup patterns](#10-backup-patterns)
 11. [DNS and Cloudflare](#11-dns-and-cloudflare)
